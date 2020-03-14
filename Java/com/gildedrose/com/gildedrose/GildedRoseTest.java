@@ -63,7 +63,7 @@ public class GildedRoseTest {
          */
         name = NameList.HAND_OF_RAGNAROS;
         sellIn = 1;
-        quality = 50;
+        quality = 40;
         performOneTest(name, sellIn, quality, sellIn, quality);
 
         /**
