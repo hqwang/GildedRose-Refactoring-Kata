@@ -74,7 +74,7 @@ public class GildedRoseTest {
          * SellIn <= 5, Quality+3 per day;
          * SellIn <= 0, Quality=0
          */
-        name = "Backstage passes to a TAFKAL80ETC concert";
+        name = NameList.TAFKAL80ETC_CONCERT;
         // case 1
         sellIn = 11;
         quality = 20;
